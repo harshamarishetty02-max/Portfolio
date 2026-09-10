@@ -1,4 +1,4 @@
-# HARSHA MARISHETTY Portfolio — V10
+# HARSHA MARISHETTY Portfolio
 
 ## Resume download fix
 The resume is now embedded directly inside `index.html` as PDF data. The Download Resume button creates the PDF in the browser and downloads it as:
